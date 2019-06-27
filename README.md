@@ -91,7 +91,7 @@ Open-source under [MIT license](https://github.com/sejongresearch/EmojiRecommend
 <br><br><br>
 
 ## 8. FAQ
-FAQ는 [Issue #28](https://github.com/sejongresearch/EmojiRecommand/issues/28)을 통해 운영되고 있습니다.
+FAQ는 [Issue #11](https://github.com/min942773/SejongHackathon/issues/11)을 통해 운영되고 있습니다.
 <br><br><br>
 
 ## 9. Contributor's Information
