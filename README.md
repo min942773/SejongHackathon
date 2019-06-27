@@ -69,7 +69,7 @@
       奨学金受けたい
 
 [ Web ]
-- cmd창에서 경로를 Project > model 폴더가 있는 곳으로 설정
+- cmd창에서 경로를 Project 폴더가 있는 곳으로 설정
 - cmd창에서 python server.py 입력
 - 인터넷창에서 localhost:5000 또는 127.0.0.1:5000 검색
 - 키워드 입력 / 답변 입력 항목 작성
