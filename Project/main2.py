@@ -132,7 +132,7 @@ def classify(text):
 
 
 
-updater = Updater(token='889568811:AAGsWQ8wNGTJYuzcKvffoZ6TG6xTpuE7-8w')
+updater = Updater(token='비공개')
 dispatcher = updater.dispatcher
 updater.start_polling()
 
