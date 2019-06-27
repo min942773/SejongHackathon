@@ -33,7 +33,7 @@
 <br>
 
 ## 1. Presentation
-* Slides: (준비중)
+* Slides: https://drive.google.com/open?id=1Xv3V1mrxRf1u_KrDsAijmUJRm38-MtBp
 <br><br>
 
 ## 2. File Structure Diagram
